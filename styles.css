@@ -1,0 +1,21 @@
+body
+{background-color: rgb(95, 201, 95);     
+    }
+
+header
+{text-align:center;
+    }
+
+.topTitles
+{list-style-position: inside;
+ display: inline;
+ padding: 11px;
+ }
+
+article
+{text-align: center;
+ max-width: 700px;
+ padding: 25px; 
+ margin: 0 auto;
+ text-align: left;
+    }
